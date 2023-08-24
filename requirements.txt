@@ -1,0 +1,9 @@
+tk
+Pillow
+torch
+screeninfo
+pyautogui
+stable-baselines3
+python-dotenv
+transforms
+torchvision

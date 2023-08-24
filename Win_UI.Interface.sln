@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Win_UI.Interface", "Win_UI.Interface.pyproj", "{B459EDCF-9395-4587-9FFA-7A85ABE0B6B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B459EDCF-9395-4587-9FFA-7A85ABE0B6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B459EDCF-9395-4587-9FFA-7A85ABE0B6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A14A474-96A7-4B9A-947A-D3580C01C67F}
+	EndGlobalSection
+EndGlobal
