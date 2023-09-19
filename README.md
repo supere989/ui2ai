@@ -14,7 +14,7 @@ If you have dual monitors this app will default to open on secondary monitor as 
 
 The Model data is available here for the current training model:
 
-Model.pth https://drive.google.com/file/d/11HgElbdcJSEBGJbVeDfJ9AjM_Wj-rs-P/view?usp=sharing
+Model.pth [https://drive.google.com/file/d/11HgElbdcJSEBGJbVeDfJ9AjM_Wj-rs-P/view?usp=sharing](https://1drv.ms/u/s!AiwPrNUOuUK-nLslRV_QISsaHeaGSA?e=LdhXvD)
 model_context.json https://drive.google.com/file/d/104FHlYrnxPKOmC7t9yV1VkzqRkVqqG84/view?usp=sharing
 
 Both files are required in the application root directory to use the "Find Start Menu" function.
